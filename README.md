@@ -9,10 +9,9 @@ This is an extension pack for Visual Studio Code with some Docker extensions tha
 
 ## Extensions included
 
-- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-- [Docker Compose](https://marketplace.visualstudio.com/items?itemName=p1c2u.docker-compose)
-- [Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)
+- [Docker DX](https://marketplace.visualstudio.com/items/?itemName=docker.docker)
 - [Docker Linter](https://marketplace.visualstudio.com/items?itemName=henriiik.docker-linter)
+- [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 ## Installation
 
